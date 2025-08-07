@@ -1,2 +1,1 @@
-# OliBank
-Banco digital pensado pra você
+# OliTech API Backend
